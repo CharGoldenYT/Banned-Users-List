@@ -1,0 +1,4 @@
+banned.users
+suggestions/*
+__pycache__/*
+*.html

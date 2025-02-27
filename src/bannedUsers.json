@@ -1,0 +1,35 @@
+{
+        "comment": "Json file for your importing convenience! generate commands with the script at `vschar-official.com/bannedUsers/script.py`",
+        "bannedUsers": [
+                [
+                        "1024824767318077492",
+                        "An Ammar",
+                        "Impersonator/Skid (Script Kiddie)"
+                ],
+                [
+                        "1329488936703234169",
+                        "yumi023432",
+                        "Spammer/Scammer"
+                ],
+                [
+                        "1308112453741056002",
+                        "SableSkies",
+                        "N/A"
+                ],
+                [
+                        "710953201444323329",
+                        "Mikecrack.exe",
+                        "Scammer"
+                ],
+                [
+                        "699753402120273991",
+                        "MC07/Apollo",
+                        "Threatened Self-Harm toward me/my friends"
+                ],
+                [
+                        "1074645763591774219",
+                        "luna1253",
+                        "Bot Account"
+                ]
+        ]
+}

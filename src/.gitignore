@@ -1,0 +1,5 @@
+banned.users
+suggestions/*
+__pycache__/*
+*.html
+bot.key

@@ -1,0 +1,1 @@
+type UserList = list[list[str]]

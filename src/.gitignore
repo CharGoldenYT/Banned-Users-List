@@ -3,3 +3,4 @@ suggestions/*
 __pycache__/*
 *.html
 bot.key
+generateUsersPage/*
